@@ -1,4 +1,4 @@
-# CS15200: Introduction to Computer Systems
+# CS15200: Introduction to Computer Science II
 
 CS152 is designed for students intending to major or minor in the subject.
 
